@@ -4,7 +4,7 @@ test = {
 }
 
 
-test = {
+test3 = {
     console.console("test")
 
 }
